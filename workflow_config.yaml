@@ -1,0 +1,6 @@
+id: fahads
+namespace: hackfrost
+tasks:
+  - id: hello
+    type: io.kestra.plugin.core.log.Log
+    message: Hello World! 🚀
